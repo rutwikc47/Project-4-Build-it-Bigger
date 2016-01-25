@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="p4backend.p4backend-android-endpoints">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/p4backend/build/libs/p4backend-android-endpoints.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
